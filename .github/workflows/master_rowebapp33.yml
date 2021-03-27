@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'rowebapp33'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_2b2849cd9e6244b5bbeff9cd88b99c84 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8da9a25db93b4952b9fc80b0898a2240 }}
         package: .
